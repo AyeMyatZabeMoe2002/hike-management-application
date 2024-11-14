@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hike Management Application</string>
+    <string name="add_hiker">Add Hiker</string>
+    <string name="show_hiker_list">Show Hiker List</string>
+    <string name="search_hiker">Search Hiker</string>
+    <string name="delete_all_hikers">Delete All Hikers</string>
+    <string name="update_hiker">Update Hiker</string>
+</resources>
